@@ -15,6 +15,7 @@ function RGB() {
   const { r } = useParams();
   const { g } = useParams();
   const { b } = useParams();
+  //forgot the dev branch
 
   return (
     <div
